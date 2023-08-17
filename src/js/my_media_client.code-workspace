@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../My_Media_Admin"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "my_media_client"
+	}
+}
